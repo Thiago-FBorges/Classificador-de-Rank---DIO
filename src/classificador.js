@@ -23,5 +23,5 @@ function partidasRanked(vitorias, derrotas){
         nivel = "Imortal"
     }
 
-    console.log("O Herói tem de saldo " + saldoVitorias + "e está no nível de " + nivel)
+    console.log("O Herói tem de saldo " + saldoVitorias + " e está no nível de " + nivel)
 }
